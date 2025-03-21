@@ -1,7 +1,5 @@
-- 👋 Hola, soy @miffyscodes
-- 👀 Estoy interesada en aprender y desarrollar en Java
-- 🌱 Actualmente estoy aprendiendo los fundamentos de la programación
-- ⚡ Dato curioso: soy muy fan del personaje Miffy y me gustaría ser conocida en el mundo dev por ello
+- 👋 Hi, I'm @miffyscodes
+- ⚡ Aspiring Data Analyst
 
 <!---
 miffyscodes/miffyscodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
